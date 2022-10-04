@@ -1,15 +1,7 @@
-# DO NOT EDIT THE FOLLOWING LINES
-# COURSE CPSC 231 FALL 2021
-# INSTRUCTOR: Jonathan Hudson
-# Wi52C3g7ZzkJ7XBcVRHY
-# DO NOT EDIT THE ABOVE LINES
-# Name: Mahira Zabin
-# Tutorial: T07
-# ID: 30150211
-# Date: 23 Nov
+
 # Description: Write a program which takes in files, reads them and displays what's inside.
 
-# INFORMATION FOR YOUR TA
+
 import fileinput
 import sys
 import os
